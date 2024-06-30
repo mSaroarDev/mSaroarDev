@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Saroar</h1>
+<h1 align="center">Hi 👋, I'm Saroar Jahan</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [E-Biddaloy - Education Management System](https://e-biddaloy.com)
