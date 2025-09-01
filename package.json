@@ -1,0 +1,22 @@
+{
+  "name": "moment-date-formatting-example",
+  "version": "1.0.0",
+  "description": "JavaScript example demonstrating date formatting with Moment.js",
+  "main": "date-formatting-example.js",
+  "scripts": {
+    "test": "node date-formatting-example.js",
+    "start": "node date-formatting-example.js"
+  },
+  "keywords": [
+    "javascript",
+    "moment",
+    "date",
+    "formatting",
+    "example"
+  ],
+  "author": "Saroar Jahan",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
