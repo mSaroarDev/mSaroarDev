@@ -2,6 +2,30 @@
 <h3 align="center">A passionate Full Stack Engineer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Global Youth - Ultimate Branch Management Software](https://youthit.top)
+## 📚 Code Examples
+
+### JavaScript Date Formatting with Moment.js
+This repository includes a comprehensive example demonstrating date formatting using Moment.js library:
+
+- **File**: `date-formatting-example.js`
+- **Features**:
+  - Parse date strings in various formats
+  - Convert to "YYYY-MM-DD HH:MM:SS" format
+  - Multiple useful formatting examples
+  - Timezone handling (Bangladesh Standard Time)
+  - Date manipulation and relative time
+  - Comprehensive comments explaining each step
+
+**Quick Start:**
+```bash
+npm install
+npm start
+```
+
+**Example Output:**
+- Original: "Mon Sep 01 2025 00:00:00 GMT+0600 (Bangladesh Standard Time)"
+- Formatted: "2025-09-01 00:00:00" (Bangladesh Time)
+- Multiple other useful formats included
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
