@@ -11,14 +11,17 @@ Focused on performance, clean architecture & production-ready systems.
 ## 🚀 Current Focus
 
 🔭 Currently building:  
-**Global Youth – Ultimate Branch Management Software**  
-🌐 https://youthit.top  
+** managemyschool - Complete School Management Software**  
+🌐 https://managemyschool.app  
+
+** vocabo labs - AI Powered English Learning App **  
+🌐 https://vocabo.ai  
 
 💡 Working with:
-- Next.js 13+
-- Express.js & Node.js
-- MongoDB & PostgreSQL
-- VPS Deployment (DigitalOcean)
+- React.js, Next.js
+- Express.js, Node.js & Nest js
+- MongoDB, MySql, PostgreSQL & Firebase
+- VPS Deployment (DigitalOcean, AWS)
 - Subdomain & Multi-tenant SaaS Architecture
 
 ---
@@ -29,18 +32,21 @@ Focused on performance, clean architecture & production-ready systems.
 - React.js
 - Next.js
 - TypeScript
-- Tailwind CSS
+- Tailwind CSS, Bootstrap, Shadcn, HeroUI
 - Redux
 
 ### Backend
 - Node.js
 - Express.js
+- Nest js
 - MongoDB (Mongoose)
 - PostgreSQL
+- MySql (Prisma)
+- Firebase
 - REST API Architecture
 
 ### DevOps & Tools
-- DigitalOcean VPS
+- DigitalOcean, AWS
 - Nginx
 - PM2
 - Git & GitHub
@@ -53,8 +59,8 @@ Focused on performance, clean architecture & production-ready systems.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msaroardev&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msaroardev&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mSaroarDev&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mSaroarDev&layout=compact" />
 </p>
 
 ---
@@ -62,7 +68,7 @@ Focused on performance, clean architecture & production-ready systems.
 ## 🌍 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/msaroardev" target="_blank">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/mSaroarDev" target="_blank">LinkedIn</a> •
 <a href="https://fb.com/msaroar.dev" target="_blank">Facebook</a> •
 <a href="https://instagram.com/msaroar.dev" target="_blank">Instagram</a> •
 <a href="https://www.youtube.com/c/msaroar.dev" target="_blank">YouTube</a>
